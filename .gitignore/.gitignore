@@ -1,0 +1,11 @@
+
+*.log
+
+.settings/*
+.project
+.npmignore
+.jshintrc
+
+*.orig
+node_modules/*
+.idea/
